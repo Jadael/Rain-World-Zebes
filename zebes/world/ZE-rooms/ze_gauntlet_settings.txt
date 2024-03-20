@@ -1,0 +1,5 @@
+Template: NONE
+Clouds: 0.6195652
+Palette: 5
+Effects: Darkness-0.2934783-20-20, Fog-0.2717391-35-82, Flies-0.1630435-268-185, 
+PlacedObjects: SlimeMold><1713.697><155.5363><-182~77~2~3, 

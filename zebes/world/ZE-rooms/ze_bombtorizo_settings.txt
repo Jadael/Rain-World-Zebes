@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04324574
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.9239131
+RandomItemSpearChance: 1
+Palette: 5
+Effects: Darkness-0.7065217-20-20, Fog-0.7391304-92-84, 
+PlacedObjects: KarmaFlower><327.2577><113.1999><7~86~5~7, 

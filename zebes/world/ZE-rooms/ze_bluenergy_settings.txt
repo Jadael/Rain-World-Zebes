@@ -1,0 +1,7 @@
+Template: NONE
+CeilingDrips: 0.7391304
+Clouds: 0.8913044
+Grime: 0
+Palette: 1
+EffectColorB: 7
+PlacedObjects: DataPearl><968.089><130.8687><0~0~0~0~Misc~0, 

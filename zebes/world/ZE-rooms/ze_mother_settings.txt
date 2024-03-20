@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.9239131
+Grime: 0
+Palette: 34
+Effects: LavaSurface-1-20-20, 
+PlacedObjects: LightSource><459.1897><236.8132><1~Environment~-1~-178~50~86.60254~0~0~None~0~0, LightSource><688.2407><258.1998><1~Environment~7~-204~50~86.60254~0~0~None~0~0, LightSource><933.4499><257.0015><1~Environment~-6~-209~50~86.60254~0~0~None~0~0, LightSource><1174.187><256.9294><1~Environment~5~-188~50~86.60254~0~0~None~0~0, LightSource><184.3272><178.1492><1~Environment~219~10~50~86.60254~0~0~None~0~0, 

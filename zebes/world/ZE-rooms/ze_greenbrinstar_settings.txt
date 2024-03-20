@@ -1,0 +1,13 @@
+Template: NONE
+CeilingDrips: 0.8804348
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04993451
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.1304348
+Grime: 0.3478261
+Palette: 18
+EffectColorA: 11
+EffectColorB: 7
+Effects: Ant-1-77-69, TinyDragonFly-1-54-119, Flies-1-30-30, 

@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.6847826
+Clouds: 0.8913044
+Palette: 1
+Effects: Fog-0.07608695-20-20, Dustpuffs-0.07608695-55-87, 

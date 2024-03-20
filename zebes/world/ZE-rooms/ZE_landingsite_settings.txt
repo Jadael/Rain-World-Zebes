@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 1
+WaveSpeed: 0.4640276
+WaveLength: 0.9820138
+WaveAmplitude: 4.326282E-06
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.7282609
+Grime: 0.2065217
+Palette: 5
+EffectColorB: 3
+Effects: Fog-1-516-510, LightRain-0.3804348-20-20, DayNight-1-45-127, AboveCloudsView-1-100-77, 

@@ -1,0 +1,6 @@
+Template: NONE
+CeilingDrips: 0.7934783
+Clouds: 0.6739131
+Palette: 6
+Effects: WaterLights-0.326087-20-20, 
+PlacedObjects: DataPearl><630.054><174.5398><0~0~0~0~Misc~0, FlareBomb><647.9358><154.1758><0~0~2~3, 

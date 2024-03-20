@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.2391304
+Palette: 6
+Effects: Fog-0.2173913-20-20, 
+PlacedObjects: TradeOutpost><293.2639><537.0505><-97~68, 

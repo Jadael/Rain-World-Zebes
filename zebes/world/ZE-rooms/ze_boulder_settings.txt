@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 1
+Clouds: 0.6956522
+Grime: 0
+Palette: 1
+EffectColorB: 7

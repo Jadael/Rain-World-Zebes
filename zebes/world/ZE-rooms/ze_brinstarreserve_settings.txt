@@ -1,0 +1,5 @@
+Template: NONE
+DangerType: Flood
+Palette: 1
+EffectColorB: 7
+PlacedObjects: DataPearl><270.1996><169.4866><13~80~0~0~Misc~0, KarmaFlower><555.9752><170.8015><0~0~5~7, 

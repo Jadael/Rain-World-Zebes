@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.3152174
+Clouds: 0.1630435
+Grime: 0.2065217
+Palette: 18
+EffectColorB: 7
+Effects: Fog-0.7065217-20-20, Dustpuffs-0.2608696-50-54, SkyDandelions-0.2065217-40-107, 
+PlacedObjects: PuffBall><318.8016><2028.526><77~66~2~3, Mushroom><849.3076><2057.804><0~72~2~3, SporePlant><1784.583><2014.64><23~76~7~10, PuffBall><1633.843><2015.823><-124~92~2~3, SlimeMold><173.9378><98.43115><-89~131~2~3, Mushroom><232.6861><100.4267><23~42~2~3, 

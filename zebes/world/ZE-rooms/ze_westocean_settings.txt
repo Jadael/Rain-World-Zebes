@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 1
+Clouds: 0.6413044
+Palette: 5
+EffectColorB: 3
+Effects: LightRain-0.4565217-62-136, Fog-1-20-20, DayNight-1-50-84, 
+PlacedObjects: DataPearl><92.33066><101.433><9~72~0~0~Misc~0, DataPearl><105.5647><971.675><0~0~0~0~Misc~0, DataPearl><617.0922><1865.627><-37~-187~0~0~Misc~0, 

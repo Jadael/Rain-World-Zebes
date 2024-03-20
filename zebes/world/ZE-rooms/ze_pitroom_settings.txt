@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.8913044
+Grime: 0.9021739
+Palette: 5
+Effects: Fog-0.3695652-20-20, DarkenLights-0.4891304-90-94, Darkness-0.6413044-284-205, Dustpuffs-0.1086956-314-50, 
+PlacedObjects: DataPearl><151.3255><121.4352><0~0~0~0~Misc~0, 

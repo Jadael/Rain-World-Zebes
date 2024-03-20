@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.9021739
+Palette: 16
+Effects: Fog-0.2173913-20-20, Darkness-0.2391304-32-67, GreenSparks-1-204-129, 
+PlacedObjects: KarmaFlower><41.4082><436.6276><42~59~5~7, 

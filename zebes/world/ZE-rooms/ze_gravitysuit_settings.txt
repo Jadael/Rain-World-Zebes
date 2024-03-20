@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.9021739
+Palette: 16
+Effects: Darkness-0.25-20-20, Fog-0.2173913-30-76, GreenSparks-1-30-30, 
+PlacedObjects: DataPearl><190.6404><159.3924><0~59~0~0~Misc~0, 

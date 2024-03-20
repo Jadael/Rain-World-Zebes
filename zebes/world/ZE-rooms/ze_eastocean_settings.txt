@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 0.9021739
+Clouds: 0.5108696
+Palette: 6
+Effects: LightRain-0.3043478-20-20, 
+PlacedObjects: JellyFish><915.5813><347.0673><0~0~2~3, JellyFish><1564.62><349.8403><0~0~2~3, JellyFish><1239.426><344.0641><0~0~2~3, 

@@ -1,0 +1,9 @@
+{
+    "id": "zebes",
+    "name": "Zebes",
+    "version": "1.0",
+    "target_game_version": "v1.5",
+    "authors": "T",
+    "description": "Recreation of Zebes as a sandbox world.",
+    "checksum_override_version": true
+}

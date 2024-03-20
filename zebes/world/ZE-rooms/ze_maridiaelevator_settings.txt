@@ -1,0 +1,8 @@
+Template: NONE
+CeilingDrips: 1
+Clouds: 0
+Grime: 0.173913
+WaterReflectionAlpha: 1
+Palette: 42
+EffectColorB: 5
+Effects: Dustpuffs-0.1630435-20-20, WaterGlowworm-0.4891304-60-92, Beetle-0.8043478-264-159, 

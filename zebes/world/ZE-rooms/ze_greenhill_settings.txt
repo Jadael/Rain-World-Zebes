@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.9021739
+Grime: 0.1847826
+RandomItemDensity: 0.75
+RandomItemSpearChance: 0.3413043
+Palette: 18
+EffectColorA: 11
+EffectColorB: 7
+PlacedObjects: DataPearl><1271.696><808.9584><-39~145~0~0~Misc~0, 

@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.1086956
+Palette: 18
+EffectColorA: 11
+EffectColorB: 7
+Effects: Flies-1-20-20, Ant-0.9782609-43-135, TinyDragonFly-1-37-85, 
+PlacedObjects: FlareBomb><185.4747><504.1984><57~-33~2~3, DataPearl><163.6028><497.3284><72~-160~0~0~Misc~0, 

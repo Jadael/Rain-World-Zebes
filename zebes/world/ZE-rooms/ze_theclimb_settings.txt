@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.8695652
+Grime: 1
+Palette: 5
+Effects: Fog-0.6956522-20-20, DarkenLights-0.3586957-57-92, Darkness-0.326087-251-219, 

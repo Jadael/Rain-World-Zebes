@@ -1,0 +1,6 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.9130435
+Grime: 0.2282609
+Palette: 16
+Effects: Darkness-0.25-20-20, Fog-0.1304348-30-114, GreenSparks-1-77-67, 

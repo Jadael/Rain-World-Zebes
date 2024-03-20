@@ -1,0 +1,8 @@
+Template: NONE
+CeilingDrips: 1
+Clouds: 0.1956522
+Grime: 0.2065217
+Palette: 42
+EffectColorB: 5
+Effects: Beetle-1-20-20, WaterGlowworm-1-45-77, 
+PlacedObjects: DataPearl><549.6552><191.9261><134~-109~0~0~Misc~0, FlareBomb><517.9293><151.4111><60~-154~2~3, TradeOutpost><459.5842><344.8885><22~105, 

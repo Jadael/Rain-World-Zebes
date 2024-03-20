@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0.6086956
+Clouds: 0.9130435
+Grime: 0.1195652
+Palette: 16
+Effects: Fog-0.1304348-20-20, Darkness-0.2173913-52-69, GreenSparks-1-52-109, 
+PlacedObjects: DataPearl><94.59985><793.5767><0~0~0~0~Misc~0, 

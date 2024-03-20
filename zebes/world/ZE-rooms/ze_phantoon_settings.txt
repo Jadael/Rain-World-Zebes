@@ -1,0 +1,6 @@
+Template: NONE
+CeilingDrips: 0.8478261
+Clouds: 0.8913044
+Palette: 16
+Effects: Fog-0.2717391-20-20, Darkness-0.2391304-34-72, GreenSparks-1-154-119, 
+PlacedObjects: GhostSpot><202.3007><151.4832><, KarmaFlower><202.6544><66.42566><-183~292~5~7, LightSource><192.071><185.313><0.5760869~Environment~-104~110~160~116.6025~0~0~None~0~0, 

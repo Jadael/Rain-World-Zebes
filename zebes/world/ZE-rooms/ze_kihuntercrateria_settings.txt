@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0.5326087
+Clouds: 0.8369565
+Grime: 0.25
+Palette: 5
+EffectColorB: 3
+Effects: Fog-0.1086956-20-20, Darkness-0.2173913-37-79, 

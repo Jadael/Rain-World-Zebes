@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 42
+EffectColorB: 5
+Effects: WaterGlowworm-1-20-20, Beetle-1-45-82, 

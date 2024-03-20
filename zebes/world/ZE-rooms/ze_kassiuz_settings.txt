@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 1
+Clouds: 0.2391304
+Grime: 0.2282609
+Palette: 42
+EffectColorB: 5
+Effects: Beetle-1-20-20, WaterGlowworm-1-49-84, 

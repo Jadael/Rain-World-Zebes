@@ -1,0 +1,7 @@
+Template: NONE
+CeilingDrips: 0.6847826
+Clouds: 0.8478261
+Grime: 0.1847826
+Palette: 5
+Effects: Fog-0.5326087-20-20, Darkness-0.2173913-72-86, Flies-0.6195652-212-172, Moth-0.1304348-324-87, 
+PlacedObjects: SlimeMold><224.5781><106.6841><13~40~2~3, SlimeMold><250.5509><90.26947><57~-25~2~3, 

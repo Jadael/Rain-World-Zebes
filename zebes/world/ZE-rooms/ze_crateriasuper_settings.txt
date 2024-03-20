@@ -1,0 +1,5 @@
+Template: NONE
+Clouds: 0.8913044
+Palette: 5
+Effects: DarkenLights-0.3586957-20-20, Fog-0.6195652-45-87, Darkness-0.25-271-191, 
+PlacedObjects: FlareBomb><1153.488><2406.05><-454~-87~2~3, 

@@ -1,0 +1,5 @@
+Template: NONE
+Clouds: 0.9130435
+Grime: 0.2717391
+Palette: 16
+Effects: Fog-0.1413043-20-20, Darkness-0.1086956-279-167, GreenSparks-1-62-98, 

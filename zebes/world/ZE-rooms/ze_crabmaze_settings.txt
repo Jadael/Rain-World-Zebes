@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.8478261
+Clouds: 0.7173913
+Grime: 0.173913
+Palette: 6
+Effects: Fog-0.07608695-20-20, 

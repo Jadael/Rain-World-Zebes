@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0.7391304
+Clouds: 0.5652174
+Palette: 5
+EffectColorB: 3
+Effects: WaterLights-0.2934783-20-20, Darkness-0.2717391-67-91, 
+PlacedObjects: DataPearl><351.4323><470.6677><7~25~0~0~Misc~0, 
+RoomSpecificScriptActive: ON

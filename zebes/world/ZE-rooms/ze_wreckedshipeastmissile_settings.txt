@@ -1,0 +1,4 @@
+Template: NONE
+Clouds: 0.9130435
+Palette: 16
+PlacedObjects: DataPearl><1234.052><181.0315><39~54~0~0~Misc~0, FlareBomb><1250.512><174.5844><0~0~2~3, 

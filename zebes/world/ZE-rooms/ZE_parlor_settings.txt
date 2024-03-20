@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.03970544
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.75
+Grime: 0.2065217
+Palette: 5
+EffectColorB: 3
+Effects: Beetle-0.1304348-30-30, Fog-0.5217391-107-100, Flies-0.1847826-266-230, Darkness-0.1847826-379-142, DayNight-1-20-20, 
+RoomSpecificScriptActive: ON

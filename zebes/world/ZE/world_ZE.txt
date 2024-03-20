@@ -1,0 +1,107 @@
+ROOMS
+ZE_themoat : ZE_kihuntercrateria, ZE_westocean : SWARMROOM
+ZE_westocean : ZE_attic, ZE_bowlingsecret, ZE_bowlingalley, ZE_gravitysuit, ZE_themoat, ZE_wreckedship
+ZE_attic : ZE_westocean, ZE_assemblyline, ZE_wreckedship
+ZE_assemblyline : ZE_attic
+ZE_wreckedship : ZE_attic, ZE_westocean, ZE_wreckedshipshelter, ZE_spongebath, ZE_wreckedshipeastmissile, ZE_basement
+ZE_basement : ZE_wreckedship, ZE_wreckedmap
+ZE_wreckedmap : ZE_basement
+ZE_wreckedshipeastmissile : ZE_wreckedship
+ZE_spongebath : ZE_wreckedship, ZE_spikydeath
+ZE_spikydeath : ZE_spongebath, ZE_electricdeath
+ZE_wreckedshipshelter : ZE_wreckedship : SHELTER
+ZE_electricdeath : ZE_wreckedshipenergy, ZE_eastocean, ZE_spikydeath
+ZE_eastocean : ZE_electricdeath, ZE_forgottenkago
+ZE_forgottenkago : ZE_eastocean, ZE_crabmaze : SWARMROOM
+ZE_crabmaze : ZE_forgottenkago, ZE_forgottenelbow
+ZE_forgottenelbow : ZE_crabmaze, ZE_maridiaelevator
+ZE_maridiaelevator : ZE_forgottenelbow, ZE_forgottensave, ZE_threadneedle
+ZE_threadneedle : ZE_bugsandhole, ZE_maridiaelevator
+ZE_bugsandhole : ZE_plasmaspark, ZE_threadneedle, ZE_butterfly
+ZE_butterfly : ZE_bugsandhole, ZE_plasmaspark, ZE_westcactusalley
+ZE_plasmaspark : ZE_kassiuz, ZE_bugsandhole, ZE_butterfly, ZE_oasis
+ZE_kassiuz : ZE_plasmaboys, ZE_plasmaspark : SWARMROOM
+ZE_plasmaboys : ZE_kassiuz, ZE_plasma
+ZE_plasma : ZE_plasmaboys
+ZE_oasis : ZE_plasmaspark, ZE_sandhallwest, ZE_sandhalleast
+ZE_sandhalleast : ZE_sandholeeast, ZE_oasis, ZE_pants
+ZE_pants : ZE_shaktool, ZE_sandhalleast
+ZE_shaktool : ZE_pants, ZE_springball
+ZE_springball : ZE_shaktool
+ZE_wreckedshipenergy : ZE_electricdeath
+ZE_bowlingalley : ZE_bowlingsecret, ZE_westocean, ZE_gravitysuit
+ZE_bowlingsecret : ZE_westocean, ZE_bowlingalley
+ZE_gravitysuit : ZE_westocean, ZE_bowlingalley
+ZE_landingsite : ZE_crateriapowerbomb, ZE_gauntletentrance, ZE_parlor, ZE_kihuntercrateria
+ZE_crateriapowerbomb : ZE_landingsite
+ZE_parlor : ZE_terminator, ZE_landingsite, ZE_parlorshelter, ZE_flyway, ZE_finalmissilebombway, ZE_premapflyway, ZE_theclimb : SWARMROOM
+ZE_parlorshelter : ZE_parlor : SHELTER
+ZE_finalmissilebombway : ZE_finalmissile, ZE_parlor
+ZE_finalmissile : ZE_finalmissilebombway
+ZE_premapflyway : ZE_parlor, ZE_crateriamap
+ZE_crateriamap : ZE_premapflyway
+ZE_terminator : ZE_parlor, ZE_greenpirateshaft
+ZE_greenpirateshaft : ZE_gauntlet, ZE_terminator, ZE_mushroomkingdom, ZE_statuehallway
+ZE_gauntlet : ZE_greenpirateshaft, ZE_gauntletentrance : SWARMROOM
+ZE_gauntletentrance : ZE_gauntlet, ZE_landingsite
+ZE_statuehallway : ZE_greenpirateshaft, ZE_statues
+ZE_statues : ZE_statuehallway
+ZE_mushroomkingdom : ZE_greenbrinstar, ZE_greenpirateshaft : SWARMROOM
+ZE_greenbrinstar : ZE_mushroomkingdom, ZE_brinstarmap, ZE_earlysuper, ZE_greenbrinstarshelter, ZE_greenfireflea, ZE_dachora, ZE_etecoon, ZE_brinstarbeetom
+ZE_dachora : ZE_greenbrinstar, ZE_bigpink, ZE_dachoraenergy
+ZE_earlysuper : ZE_greenbrinstar, ZE_brinstarreserve : SWARMROOM
+ZE_brinstarreserve : ZE_earlysuper
+ZE_greenbrinstarshelter : ZE_greenbrinstar : SHELTER
+ZE_flyway : ZE_parlor, ZE_bombtorizo
+ZE_bombtorizo : ZE_flyway
+ZE_kihuntercrateria : ZE_landingsite, ZE_themoat, ZE_warehouselobby
+ZE_warehouselobby : ZE_kihuntercrateria, ZE_bubblemountain
+ZE_bubblemountain : ZE_warehouselobby
+ZE_theclimb : ZE_parlor, ZE_crateriasuperupper, ZE_crateriasuperlower, ZE_mother, ZE_pitroom
+ZE_mother : ZE_escape1, ZE_theclimb
+ZE_crateriasuperupper : ZE_theclimb, ZE_crateriasuper
+ZE_crateriasuperlower : ZE_theclimb, ZE_crateriasuper
+ZE_crateriasuper : ZE_crateriasuperupper, ZE_crateriasuperlower
+ZE_pitroom : ZE_theclimb, ZE_morphball
+ZE_morphball : ZE_pitroom, ZE_greenhill, ZE_construction
+ZE_construction : ZE_morphball, ZE_bluenergy
+ZE_bluenergy : ZE_boulder, ZE_construction
+ZE_boulder : ZE_billymays, ZE_bluenergy
+ZE_billymays : ZE_boulder
+ZE_greenhill : ZE_bigpink, ZE_morphball, ZE_redshaft : SWARMROOM
+END ROOMS
+
+CREATURES
+OFFSCREEN : 0-Scavenger-16, 0-Vulture-1, 0-Leviathan-1
+ZE_parlor : 7-CicadaB, 8-CicadaB, 9-Snail, 10-Snail, 11-Snail, 12-Snail, 13-Snail, 14-Snail
+ZE_gauntlet : 2-Mimic
+ZE_gauntletentrance : 2-Mimic, 3-CicadaB, 4-Mimic, 5-CicadaB, 7-Mimic, 8-Mimic, 6-CicadaB
+ZE_mushroomkingdom : 2-Snail, 3-Snail
+ZE_greenpirateshaft : 4-Small Centipede, 5-Small Centipede
+ZE_terminator : 2-CicadaB, 3-Snail, 4-Snail, 5-CicadaB, 6-Snail
+ZE_kihuntercrateria : 3-Centiwing, 4-Centiwing, 5-Snail, 6-Snail
+ZE_crateriapowerbomb : 1-Pink, 2-Snail, 3-Snail
+ZE_westocean : 8-Snail, 12-CicadaB, 9-SmallNeedleWorm-2, 10-BigNeedleWorm, 11-SmallNeedleWorm-2, 7-CicadaB, 13-Jet Fish, 14-Jet Fish, 6-CicadaA
+ZE_spongebath : 2-Snail
+ZE_wreckedshipenergy : 1-Jet Fish-2
+ZE_wreckedshipeastmissile : 1-TubeWorm-2
+ZE_assemblyline : 1-Lantern Mouse, 2-Lantern Mouse, 3-White
+ZE_basement : 2-DaddyLongLegs, 3-Lantern Mouse-2
+ZE_eastocean : 2-Jet Fish, 3-Jet Fish, 3-Leech-3
+ZE_crabmaze : 2-Snail, 3-Snail, 4-Snail, 5-Snail, 6-Snail
+ZE_threadneedle : 2-Leech-3, 3-Snail-2, 4-Leech-2
+ZE_bugsandhole : 3-Garbage Worm-2
+ZE_plasmaspark : 4-CicadaB-2, 5-Jet Fish, 6-Leech-4, 7-Snail-2
+ZE_kassiuz : 2-CicadaB-2, 3-Leech-5
+ZE_plasmaboys : 2-Eggbug
+ZE_greenbrinstar : 9-CicadaB-2, 10-Small Centipede-2, 11-Small Centipede, 12-Small Centipede, 13-Small Centipede-2
+ZE_earlysuper : 2-SmallNeedleWorm-3, 2-BigNeedleWorm, 3-Spider-3, 4-Pink
+ZE_dachora : 4-CicadaB-2, 3-Snail-2, 5-SmallNeedleWorm-3, 5-BigNeedleWorm
+ZE_mother : 2-PoleMimic, 3-PoleMimic, 4-PoleMimic, 5-PoleMimic, 6-MotherLongLegs
+ZE_bluenergy : 2-CicadaA, 3-Snail
+ZE_morphball : 3-DropBug, 4-Snail
+ZE_boulder : 2-Snail-3
+ZE_greenhill : 3-EggBug, 4-CicadaB
+ZE_pants : 2-Leech-4
+ZE_shaktool : 2-Snail-2, 3-Salamander
+END CREATURES

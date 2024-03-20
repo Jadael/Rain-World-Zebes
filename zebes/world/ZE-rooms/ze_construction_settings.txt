@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04392117
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.8586956
+Grime: 0
+Palette: 1
+EffectColorB: 7
+PlacedObjects: DataPearl><91.23886><169.6997><-154~142~0~0~Misc~0, 

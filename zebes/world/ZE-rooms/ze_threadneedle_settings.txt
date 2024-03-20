@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 1
+Clouds: 0
+Grime: 0.2173913
+WaterReflectionAlpha: 1
+Palette: 42
+EffectColorB: 5
+Effects: Dustpuffs-0.1413043-20-20, WaterGlowworm-1-59-67, Beetle-1-57-115, 
+PlacedObjects: BubbleGrass><306.8123><147.0691><27~91~4~9, BubbleGrass><924.8843><144.6018><-130~99~4~9, BubbleGrass><1021.544><185.1952><57~77~4~9, BubbleGrass><1776.831><146.8931><-122~126~4~9, BubbleGrass><1960.852><185.865><45~127~4~9, 

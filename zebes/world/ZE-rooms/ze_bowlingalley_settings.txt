@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.5760869
+WaveSpeed: 0.4983748
+WaveLength: 0.9991874
+WaveAmplitude: 0.04781349
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.8913044
+Grime: 0.5760869
+Palette: 16
+Effects: Darkness-0.326087-20-20, GreenSparks-1-40-102, Fog-0.2717391-282-192, 
+PlacedObjects: KarmaFlower><1715.387><732.8953><-184~-104~5~7, DataPearl><1255.168><191.1825><-206~-149~0~0~Misc~0, 
+RoomSpecificScriptActive: ON

@@ -1,0 +1,8 @@
+Template: NONE
+CeilingDrips: 1
+Clouds: 0.1304348
+Grime: 0.173913
+Palette: 42
+EffectColorB: 5
+Effects: Beetle-1-20-20, WaterGlowworm-1-35-79, 
+PlacedObjects: BubbleGrass><140.4316><81.08386><17~102~4~9, 

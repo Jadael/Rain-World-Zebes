@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.8695652
+Grime: 0
+Palette: 1
+EffectColorB: 7
+PlacedObjects: KarmaFlower><1429.051><125.4433><-79~179~5~7, LightFixture><1332.317><229.8305><RedLight~17.32051~-10~18, DataPearl><886.2214><106.0521><10~67~0~0~Misc~0, 

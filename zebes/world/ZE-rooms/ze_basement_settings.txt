@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.8913044
+Grime: 0.3369565
+Palette: 16
+Effects: Fog-0.3043478-20-20, Darkness-0.6956522-62-77, GreenSparks-1-207-135, 
+PlacedObjects: Corruption><1802.281><256.5524><-53~63, LightSource><1783.827><160.6849><1~Environment~-130~71~50~86.60254~1~0~None~0~0, 

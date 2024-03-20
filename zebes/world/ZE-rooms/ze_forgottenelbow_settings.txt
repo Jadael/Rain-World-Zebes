@@ -1,0 +1,4 @@
+Template: NONE
+CeilingDrips: 0.8804348
+Clouds: 0.8152174
+Palette: 6
